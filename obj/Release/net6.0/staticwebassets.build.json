@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3IydcgcETXWUaRxCzDNxZ+ojoeMz+jQe+x/YuzN8cUc=",
+  "Source": "CRUD-MINIMAL-JWT",
+  "BasePath": "_content/CRUD-MINIMAL-JWT",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

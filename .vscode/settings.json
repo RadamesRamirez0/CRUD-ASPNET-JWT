@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin/Release/net6.0/publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/be67c37a-35e0-4620-8969-a9fc59edca26/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/apitokenrada"
+}
